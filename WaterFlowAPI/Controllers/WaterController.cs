@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace WaterFlowAPI.Controllers
 {
     [Route("api/[controller]")]
-    public class ValuesController : Controller
+    public class WaterController : Controller
     {
         // GET api/values
         [HttpGet]
